@@ -19,7 +19,6 @@ I'm a passionate **ethical hacker**, **Arduino tinkerer**, and **creative builde
 - 🛡️ **Voice of the Heart** – an Arabic emotional support tool powered by AI and empathy
 - 📡 **Wi-Fi Deauther & Evil Twin** – ethical hacking tools for educational and defensive use
 - 🌫️ **Cloud Creation Machine** – Arduino project to simulate environmental conditions for fog/cloud generation
-- 🧪 IoT experiments with **TFT displays**, **sensors**, **relays**, and **Peltier cooling**
 
 ---
 
